@@ -40,7 +40,4 @@ curl -X DELETE http://localhost:3000/api/products/{id}
 
 ```bash
 node app.js
-
-Essa estrutura básica fornece todas as operações CRUD para a API de produtos.
-
 ```
